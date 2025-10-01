@@ -1,6 +1,6 @@
 # ⚡ Lumora – Electronics Accessories Store App  
 
-![Lumora Logo](assets/logo.png)  
+![<img width="1024" height="1024" alt="app_icon_foreground" src="https://github.com/user-attachments/assets/aeccb3ff-249f-4258-b655-8ca61f3b19a0" />](assets/logo.png)  
 
 **Lumora** is a modern mobile app for all your **electronics accessories needs** – chargers, extension boards, power strips, cables, headphones, and more.  
 It combines **elegant design, smooth performance, and a seamless shopping experience** into one powerful application.  
@@ -45,3 +45,4 @@ git clone https://github.com/yourusername/lumora.git
 cd lumora
 flutter pub get
 flutter run
+

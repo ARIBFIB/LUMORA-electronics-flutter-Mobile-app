@@ -20,9 +20,7 @@ It combines **elegant design, smooth performance, and a seamless shopping experi
 
 ## 📱 Screenshots  
 
-| Home Screen | Product Details | Offer Banner |  
-|-------------|-----------------|--------------|  
-| ![Home](assets/screenshots/home.png) | ![Product](assets/screenshots/product.png) | ![Offer](assets/screenshots/offer.png) |  
+![IMG-20251001-WA0002](https://github.com/user-attachments/assets/9d16920c-67aa-4cca-a354-2512462e00e8)
 
 ---
 
@@ -45,3 +43,4 @@ git clone https://github.com/yourusername/lumora.git
 cd lumora
 flutter pub get
 flutter run
+
